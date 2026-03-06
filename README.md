@@ -1,0 +1,2 @@
+# SmartHealth-CM
+SmartHealth CM is an Android mobile application that allows users to securely store and access their personal medical records on their smartphones. It helps users manage health information such as medical history, prescriptions, allergies, and blood type, and provides medication reminders and emergency health details.
